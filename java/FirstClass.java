@@ -4,5 +4,5 @@ public class FirstClass {
         System.out.println(2);
     }
     private String b = "b1";
-    private String a = "a1";
+    private String a = "a2";
 }
