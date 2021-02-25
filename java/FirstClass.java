@@ -5,4 +5,5 @@ public class FirstClass {
     }
     private int a = 4;
     private int b = 6;
+    private int c = 8;
 }
