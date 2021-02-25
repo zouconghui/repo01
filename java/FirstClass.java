@@ -4,5 +4,5 @@ public class FirstClass {
         System.out.println(2);
     }
 	private int a=4;
-
+	private int b=5
 }
