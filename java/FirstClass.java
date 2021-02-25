@@ -3,6 +3,7 @@ public class FirstClass {
         System.out.println(1);
         System.out.println(2);
     }
-	private int a=4;
 
+    private int a = 4;
+    private int b = 6;
 }
